@@ -24,3 +24,8 @@
 
 > 如果语言支持多重作用域，甚至嵌套作用域，那么就得用这种模式了
 
+
+## 专业词汇
+
+中间表示 (intermediate representation) IR
+
