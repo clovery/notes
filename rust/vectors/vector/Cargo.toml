@@ -1,0 +1,6 @@
+[package]
+name = "vector"
+version = "0.1.0"
+authors = ["arvin wei <clovery.org@gmail.com>"]
+
+[dependencies]
